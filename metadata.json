@@ -1,0 +1,8 @@
+
+{
+  "name": "Hand-Powered Cinematic Christmas Tree",
+  "description": "A high-end 3D experience using Three.js and MediaPipe Hand tracking. Control a particle-based Christmas tree with gestures: fist to close, palm to explode, and pinch to zoom into photos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
